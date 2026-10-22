@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (ArtificialNeuralNetworksAndDeepLearning)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (ArtificialNeuralNetworksAndDeepLearning)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 virtualenv at C:\ProjectsPython\ArtificialNeuralNetworksAndDeepLearning\venv_310" project-jdk-type="Python SDK" />
 </project>
